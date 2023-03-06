@@ -141,3 +141,15 @@ ALL_LABEL2ID = {'backpack': 0, 'umbrella': 1, 'bag': 2, 'tie': 3, 'suitcase': 4,
                 'alpaca(which is a type of animal)': 230, 'teapot': 231, 'glove': 232,
                 'sea lion(which is a type of animal)': 233, 'printer': 234, 'balloon': 235, 'stapler': 236,
                 'calculator': 237, 'unlabeled': 255}
+
+CMP_FACADE_NAME = {'background':'unexplained part of the image','facade':'A facade is generally the front part or exterior of a building',
+                   'window':'A window is an opening in a wall, door, roof, or vehicle that allows the exchange of light and may also allow the passage of sound and sometimes air',
+                   'door':'A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure',
+                   'cornice':'a cornice is generally any horizontal decorative moulding that crowns a building or furniture element',
+                   'sill':'A sill is the horizontal structure or surface at the bottom of a window',
+                   'balcony':'A balcony is a platform projecting from the wall of a building, supported by columns or console brackets, and enclosed with a balustrade, usually above the ground floor',
+                   'blind': 'A blind is a type of window covering',
+                   'deco':'An act or object intended to increase the beauty of a person, room, etc',
+                   'molding':'Molding is a strip of material with various profiles used to cover transitions between surfaces or for decoration',
+                   'pillar':'A pillar in architecture and structural engineering is a structural element that transmits, through compression, the weight of the structure above to other structural elements below',
+                   'shop':'A casual word for a commercial establishment or for a place of business'}
