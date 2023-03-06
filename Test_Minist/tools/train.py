@@ -206,7 +206,7 @@ def test_model(model, test_image_paths, test_mask_paths, device, save_dir, base_
 
 
 def train(TRAIN_TEST_SPLIT = 0.8, dataset_path = '/content/SSIW-master/Test_Minist/base', ckpt_path = '/content/SSIW-master/Test_Minist/models/segformer_7data.pth',
-          batch_size = 16, epochs = 3, base_size = 128):
+          batch_size = 16, epochs = 35, base_size = 128):
     classes = ['background', 'facade', 'window', 'door', 'cornice', 'sill', 'balcony', 'blind', 'deco', 'molding', 'pillar', 'shop']
 
     image_paths = glob.glob(dataset_path + '/*.jpg')
