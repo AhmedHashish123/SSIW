@@ -33,8 +33,8 @@ The model was finetuned on the CMP base dataset with a train-test split of 80% a
 
 Below are some of the results (more can be found in "Results.pdf":
 
-![alt text](https://github.com/AhmedHashish123/SSIW/blob/mas/Results/r1.PNG)
-![alt text](https://github.com/AhmedHashish123/SSIW/blob/main/Results/r2.PNG)
+![Results 1](https://github.com/AhmedHashish123/SSIW/blob/master/Results/r1.PNG)
+![Results 2](https://github.com/AhmedHashish123/SSIW/blob/master/Results/r2.PNG)
 
 
 Possible Improvements:
